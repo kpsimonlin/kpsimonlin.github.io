@@ -2,7 +2,7 @@
 layout: page
 title: "Welcome!"
 author: "Kung-Ping Lin"
-image: guishan_banner.jpg
+image: shinkang1_banner.jpg
 ---
 
 I am a PhD student studying evolutionary biology. My major interests are centered around how various evolutionary forces shape the architechture of populations and species on a molecular level.
