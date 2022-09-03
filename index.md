@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Welcome!"
+title: "Welcome"
 author: "Kung-Ping Lin"
-image: mountains.jpg
+image: guishan.jpg
 ---
 
-## Test
-Test
+## I am a PhD student studying speciation genomics
