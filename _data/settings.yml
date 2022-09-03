@@ -17,8 +17,8 @@ menu:
 social:
 - {icon: 'envelope',       link: 'mailto:kplin@zoology.ubc.ca'}
 - {icon: 'github',         link: 'https://github.com/kpsimonlin'}
-- {icon: 'registered',     link: 'https://www.researchgate.net/profile/Kung-Ping-Lin'}
-- {icon: 'graduation-cap', link: 'https://scholar.google.com.tw/citations?hl=zh-TW&user=EJPYBs8AAAAJ'}
+- {icon: 'researchgate',     link: 'https://www.researchgate.net/profile/Kung-Ping-Lin'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com.tw/citations?hl=zh-TW&user=EJPYBs8AAAAJ'}
 
 # Customize site text
 pagination:
