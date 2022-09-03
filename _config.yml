@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Kung-Ping Lin'
-description:	       'Speciation Genomics'
+description:	       'Evolutionary Genomics'
 author:              'Kung-Ping Lin'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
