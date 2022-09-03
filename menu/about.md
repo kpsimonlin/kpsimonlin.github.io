@@ -18,4 +18,6 @@ Please see my CV [here](https://github.com/kpsimonlin/CV/blob/main/Lin_curriculu
 
 # About my name
 
-Kung-Ping is from the old Wade–Giles romanization system and actually sounds more like "Gong-Ping," here is what it is like in traditional Chinese characters: 林恭平. I will also be happy to be called KP for short.
+Kung-Ping is from the old Wade–Giles romanization system and actually sounds more like "Gong-Ping," here is what it is like in traditional Chinese characters: 林恭平.
+
+I am also happy to be called KP for short.
