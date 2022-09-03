@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+layout: page
+title: "Welcome!"
+author: "Kung-Ping Lin"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
