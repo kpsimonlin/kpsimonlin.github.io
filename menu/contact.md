@@ -5,4 +5,4 @@ image: shinkang2_banner.jpg
 permalink: /contact
 ---
 
-{% include icon.html name="envelope" %}
+<i class='fa fa-home'></i>
