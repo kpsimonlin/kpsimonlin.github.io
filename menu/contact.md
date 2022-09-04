@@ -15,5 +15,5 @@ ul li {
   
   <li><i class="fa-li fa fa-envelope"></i>kpsimonlin@gmail.com</li>  
   
-  <li><i class="fa-li fa fa-address-book"></i>Office 137, Biodiversity Research Centre 2212 Main Mall, Vancouver BC Canada V6T 1Z4</li>  
+  <li><i class="fa-li fa fa-paper-plane"></i>Office 137, Biodiversity Research Centre 2212 Main Mall, Vancouver BC Canada V6T 1Z4</li>  
 </ul>
