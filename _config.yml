@@ -12,7 +12,7 @@
 
 # jekyll-paginate configuration
 paginate:            5
-paginate_path: "/research_test/page:num"
+paginate_path: "/research/page:num"
 
 # Build settings
 markdown:            kramdown
