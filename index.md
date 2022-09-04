@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome!"
+title: "Welcome"
 author: "Kung-Ping Lin"
 image: shinkang1_banner.jpg
 ---
