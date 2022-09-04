@@ -5,4 +5,5 @@ image: shinkang2_banner.jpg
 permalink: /contact
 ---
 
-<i class='fa fa-home'></i>
+<i class='fa fa-envelope'></i> fa-2x 
+Test
