@@ -6,9 +6,6 @@ layout: default
   <div class="posts-container">
     {% if post.image %}
       <img src="{{ site.github.url }}/assets/img/{{ post.image }}">
-      <div class="thumbnail-container">
-        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-      </div>
     {% endif %}
     <h1>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
