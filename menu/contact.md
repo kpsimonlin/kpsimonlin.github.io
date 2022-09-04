@@ -4,11 +4,16 @@ title: Contact
 image: shinkang2_banner.jpg
 permalink: /contact
 ---
+<style>
+ul li {
+    padding: 5px 0px;
+}
+</style>
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-envelope"></i>&nbsp;kplin@zoology.ubc.ca</li>  
+  <li><i class="fa-li fa fa-envelope"></i>kplin@zoology.ubc.ca</li>  
   
-  <li><i class="fa-li fa fa-envelope"></i>&nbsp;kpsimonlin@gmail.com</li>  
+  <li><i class="fa-li fa fa-envelope"></i>kpsimonlin@gmail.com</li>  
   
-  <li><i class="fa-li fa fa-address-book"></i>&nbsp;Office 137 Biodiversity Research Centre 2212 Main Mall Vancouver BC Canada V6T 1Z4</li>  
+  <li><i class="fa-li fa fa-address-book"></i>Office 137 Biodiversity Research Centre 2212 Main Mall Vancouver BC Canada V6T 1Z4</li>  
 </ul>
