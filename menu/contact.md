@@ -6,7 +6,7 @@ permalink: /contact
 ---
 <style>
 ul li {
-    padding: 5px 0px;
+    padding: 5px 5px;
 }
 </style>
 
