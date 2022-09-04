@@ -5,6 +5,7 @@ layout: default
 {% for post in paginator.posts %}
   <div class="posts-container">
     {% if post.image %}
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
       <div class="thumbnail-container">
         <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
       </div>
