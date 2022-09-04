@@ -1,5 +1,4 @@
 ---
-layout: posts
+layout: home
 title: Research
-permalink: /research
 ---
