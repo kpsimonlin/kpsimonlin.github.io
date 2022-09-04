@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Postzygotic reproductive isolation in stickleback backcross population"
+title: "Postzygotic reproductive isolation in stickleback backcrosses"
 author: "Kung-Ping Lin"
 tags: [speciation, genomics, experiment]
 image: fries_banner.jpg
