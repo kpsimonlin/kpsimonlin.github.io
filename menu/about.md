@@ -14,7 +14,7 @@ I finished my bachelor and master in [Dr. Wen-Ya Ko's lab](https://dls.nycu.edu.
 Outside of my academic career, I am also a keen outdoorsman who enjoys backcountry, rock climbing, and recently skiing. Check the [Gallery](https://kpsimonlin.github.io/gallery.html) for photos from some of my favorite trips.
 
 ## Curriculum vitae
-Please see my CV [here](https://github.com/kpsimonlin/CV/blob/main/Lin_curriculum_vitae_202202.pdf).
+Please see my CV [here](https://github.com/kpsimonlin/CV).
 
 ## About my name
 
