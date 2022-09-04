@@ -11,7 +11,7 @@ I grew up in South Taiwan, where the blooming biodiversity inspired me to dream 
 
 I finished my bachelor and master in [Dr. Wen-Ya Ko's lab](https://dls.nycu.edu.tw/faculty/faculty-member/wenko.html) at National Yang-Ming University in Taiwan, where I studied the conservation genetics of an endangered bat species. Through this study, I was intrigued by how incipient species could develope into mature and isolated species. Therefore, I decided to take a detour to speciation problems for my doctoral research. I am now working on the speciation genomics of three-spined stickleback in British Columbia, Canada.
 
-Outside of my academic career, I am also a keen outdoorsman who enjoys backcountry, rock climbing, and recently skiing. Check the Gallery for photos from some of my favorite trips.
+Outside of my academic career, I am also a keen outdoorsman who enjoys backcountry, rock climbing, and recently skiing. Check the [Gallery](https://kpsimonlin.github.io/gallery.html) for photos from some of my favorite trips.
 
 ## Curriculum vitae
 Please see my CV [here](https://github.com/kpsimonlin/CV/blob/main/Lin_curriculum_vitae_202202.pdf).
