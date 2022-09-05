@@ -28,3 +28,9 @@ author:              'Kung-Ping Lin'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+- theme: minima
++ remote_theme: jekyll/minima
+
+  plugins:
++ - jekyll-remote-theme
