@@ -12,3 +12,4 @@ Some useful tips for managing the site (for me):
 - Icons should be managed by modifying /\_sass/\_social-icons.scss, /assets/css/main.scss, and /\_includes/social-icons.html
 - favicon can be changed by uploading new /favicon.ico
 - 404 page is defined by /404.md
+- Images for the Gallery is in /\assets/\img/\album/
