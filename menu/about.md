@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: kungping_banner.jpg
+image: longpan_banner.jpg
 permalink: /about
 ---
 
