@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: shinkang2_banner.jpg
+image: kungping_banner.jpg
 permalink: /contact
 ---
 <style>
