@@ -11,7 +11,7 @@ ul li {
 </style>
 
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-envelope"></i>kplin@zoology.ubc.ca</li>  
+  <li><i class="fa-li fa fa-envelope"></i>kplin@mail.ubc.ca</li>  
   
   <li><i class="fa-li fa fa-envelope"></i>kpsimonlin@gmail.com</li>  
   
