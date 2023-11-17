@@ -9,7 +9,7 @@ Some useful tips for managing the site (for me):
 - Tags are defined in /\_data/settings.yml
 - The content of tags besides "Research" can be accessed in /menu folder
 - The content of "Research" tag is in /research folder
-- Icons should be managed by modifying /\_sass/\_social-icons.scss, /assets/css/main.scss, and /\_includes/social-icons.html
+- Icons should be managed by modifying /\_sass/\_social-icons.scss, /assets/css/main.scss, /\_includes/social-icons.html and /\_data/settings.yml
 - favicon can be changed by uploading new /favicon.ico
 - 404 page is defined by /404.md
 - Images for the Gallery is in /assets/img/album/
